@@ -1,0 +1,955 @@
+{
+  "framework": "LangGraph",
+  "sessions": [
+    {
+      "day": "2026-11-23",
+      "task_id": "stats",
+      "title": "Statistics problem set",
+      "minutes": 30,
+      "study_goal": "# Practice confidence intervals and hypothesis tests\n\nStart by practicing with the provided notes from 'statistics.md#1'. Focus on understanding how to identify necessary statistics for these statistical methods.",
+      "sources": [
+        {
+          "start_index": 0,
+          "source": "statistics.md",
+          "source_id": "statistics.md#1",
+          "document_sha256": "8d12b42c7d03388fbf367f9c5b83bad104bc4114736906aeb2ae76d9c8654115",
+          "line": 1,
+          "text": "# Statistics problem set\n\nFor the statistics problem set, practice confidence intervals and hypothesis tests. Start by identifying the sample mean, sample standard deviation, and sample size. Check the independence and distribution assumptions before choosing a formula.",
+          "score": 0.6303
+        }
+      ]
+    },
+    {
+      "day": "2026-11-23",
+      "task_id": "stats",
+      "title": "Statistics problem set",
+      "minutes": 30,
+      "study_goal": "Practice confidence intervals and hypothesis tests using provided data sets.",
+      "sources": [
+        {
+          "start_index": 0,
+          "source": "statistics.md",
+          "source_id": "statistics.md#1",
+          "document_sha256": "8d12b42c7d03388fbf367f9c5b83bad104bc4114736906aeb2ae76d9c8654115",
+          "line": 1,
+          "text": "# Statistics problem set\n\nFor the statistics problem set, practice confidence intervals and hypothesis tests. Start by identifying the sample mean, sample standard deviation, and sample size. Check the independence and distribution assumptions before choosing a formula.",
+          "score": 0.6303
+        }
+      ]
+    },
+    {
+      "day": "2026-11-23",
+      "task_id": "stats",
+      "title": "Statistics problem set",
+      "minutes": 30,
+      "study_goal": "Practice calculating confidence intervals and conducting hypothesis tests using provided data sets.",
+      "sources": [
+        {
+          "start_index": 0,
+          "source": "statistics.md",
+          "source_id": "statistics.md#1",
+          "document_sha256": "8d12b42c7d03388fbf367f9c5b83bad104bc4114736906aeb2ae76d9c8654115",
+          "line": 1,
+          "text": "# Statistics problem set\n\nFor the statistics problem set, practice confidence intervals and hypothesis tests. Start by identifying the sample mean, sample standard deviation, and sample size. Check the independence and distribution assumptions before choosing a formula.",
+          "score": 0.6303
+        }
+      ]
+    },
+    {
+      "day": "2026-11-24",
+      "task_id": "essay",
+      "title": "History essay draft",
+      "minutes": 30,
+      "study_goal": "# Write an arguable thesis before drafting the body of the history essay.\n\nUse primary sources as evidence, distinguish an author's claim from your own interpretation, and connect each paragraph back to the thesis. Plan the essay in three stages: outline the argument, draft paragraphs with evidence, then revise the introduction and conclusion.",
+      "sources": [
+        {
+          "start_index": 0,
+          "source": "history.md",
+          "source_id": "history.md#1",
+          "document_sha256": "3e237c80caf17ce1b836c540017c9d3c34e7e6cbbe6597db3484993de9b8ab15",
+          "line": 1,
+          "text": "# History essay draft\n\nFor the history essay draft, write an arguable thesis before drafting the body. Use primary sources as evidence, distinguish an author's claim from your own interpretation, and connect each paragraph back to the thesis.\n\nPlan the history essay in three stages: outline the argument, draft paragraphs with evidence, then revise the introduction and conclusion. Keep a bibliography while writing and cite quotations and paraphrases. Check the assignment's required citation style before submitting.",
+          "score": 0.7261
+        }
+      ]
+    },
+    {
+      "day": "2026-11-24",
+      "task_id": "essay",
+      "title": "History essay draft",
+      "minutes": 30,
+      "study_goal": "Write an arguable thesis for the history essay draft and use primary sources as evidence in drafting the body of the essay.",
+      "sources": [
+        {
+          "start_index": 0,
+          "source": "history.md",
+          "source_id": "history.md#1",
+          "document_sha256": "3e237c80caf17ce1b836c540017c9d3c34e7e6cbbe6597db3484993de9b8ab15",
+          "line": 1,
+          "text": "# History essay draft\n\nFor the history essay draft, write an arguable thesis before drafting the body. Use primary sources as evidence, distinguish an author's claim from your own interpretation, and connect each paragraph back to the thesis.\n\nPlan the history essay in three stages: outline the argument, draft paragraphs with evidence, then revise the introduction and conclusion. Keep a bibliography while writing and cite quotations and paraphrases. Check the assignment's required citation style before submitting.",
+          "score": 0.7261
+        }
+      ]
+    },
+    {
+      "day": "2026-11-25",
+      "task_id": "essay",
+      "title": "History essay draft",
+      "minutes": 30,
+      "study_goal": "Write an arguable thesis for the history essay draft using primary sources as evidence, distinguishing between author's claims and personal interpretations, and connecting each paragraph back to the thesis.",
+      "sources": [
+        {
+          "start_index": 0,
+          "source": "history.md",
+          "source_id": "history.md#1",
+          "document_sha256": "3e237c80caf17ce1b836c540017c9d3c34e7e6cbbe6597db3484993de9b8ab15",
+          "line": 1,
+          "text": "# History essay draft\n\nFor the history essay draft, write an arguable thesis before drafting the body. Use primary sources as evidence, distinguish an author's claim from your own interpretation, and connect each paragraph back to the thesis.\n\nPlan the history essay in three stages: outline the argument, draft paragraphs with evidence, then revise the introduction and conclusion. Keep a bibliography while writing and cite quotations and paraphrases. Check the assignment's required citation style before submitting.",
+          "score": 0.7261
+        }
+      ]
+    },
+    {
+      "day": "2026-11-25",
+      "task_id": "essay",
+      "title": "History essay draft",
+      "minutes": 30,
+      "study_goal": "Write an arguable thesis for the history essay draft and use primary sources as evidence, distinguishing between author's claims and personal interpretations.",
+      "sources": [
+        {
+          "start_index": 0,
+          "source": "history.md",
+          "source_id": "history.md#1",
+          "document_sha256": "3e237c80caf17ce1b836c540017c9d3c34e7e6cbbe6597db3484993de9b8ab15",
+          "line": 1,
+          "text": "# History essay draft\n\nFor the history essay draft, write an arguable thesis before drafting the body. Use primary sources as evidence, distinguish an author's claim from your own interpretation, and connect each paragraph back to the thesis.\n\nPlan the history essay in three stages: outline the argument, draft paragraphs with evidence, then revise the introduction and conclusion. Keep a bibliography while writing and cite quotations and paraphrases. Check the assignment's required citation style before submitting.",
+          "score": 0.7261
+        }
+      ]
+    },
+    {
+      "day": "2026-11-25",
+      "task_id": "lab",
+      "title": "Python lab",
+      "minutes": 30,
+      "study_goal": "To break down the Python lab program into small functions with clear inputs and outputs as instructed in the retrieved notes.",
+      "sources": [
+        {
+          "start_index": 0,
+          "source": "python.md",
+          "source_id": "python.md#1",
+          "document_sha256": "8cea20cf06c25efa8cd4a89408c36822d39abec7024f348efd07b7df9ce8574d",
+          "line": 1,
+          "text": "# Python lab\n\nFor the Python lab, break the program into small functions with clear inputs and outputs. Implement the core behavior first, then write unit tests covering normal input, empty input, and invalid values. Use pytest to run the tests locally.\n\nBefore submitting the Python lab, check file paths and handle missing files with a helpful error. Test the code with a fresh virtual environment and keep dependencies in requirements.txt. Do not hardcode personal file paths or credentials.",
+          "score": 0.5427
+        }
+      ]
+    },
+    {
+      "day": "2026-11-25",
+      "task_id": "lab",
+      "title": "Python lab",
+      "minutes": 30,
+      "study_goal": "Implement the Python lab by writing small functions for the program, ensuring clear inputs and outputs, and creating unit tests to cover various scenarios including normal input, empty input, and invalid values using pytest. Additionally, prepare a fresh virtual environment and manage dependencies in requirements.txt.",
+      "sources": [
+        {
+          "start_index": 0,
+          "source": "python.md",
+          "source_id": "python.md#1",
+          "document_sha256": "8cea20cf06c25efa8cd4a89408c36822d39abec7024f348efd07b7df9ce8574d",
+          "line": 1,
+          "text": "# Python lab\n\nFor the Python lab, break the program into small functions with clear inputs and outputs. Implement the core behavior first, then write unit tests covering normal input, empty input, and invalid values. Use pytest to run the tests locally.\n\nBefore submitting the Python lab, check file paths and handle missing files with a helpful error. Test the code with a fresh virtual environment and keep dependencies in requirements.txt. Do not hardcode personal file paths or credentials.",
+          "score": 0.5427
+        }
+      ]
+    },
+    {
+      "day": "2026-11-27",
+      "task_id": "reading",
+      "title": "Economics reading",
+      "minutes": 30,
+      "study_goal": "Review economics reading material focusing on supply, demand, equilibrium, and price elasticity, sketch curves, identify shifts, and understand their effects.",
+      "sources": [
+        {
+          "start_index": 0,
+          "source": "economics.md",
+          "source_id": "economics.md#1",
+          "document_sha256": "e9a01acc90f08d0a96ab130cfe32a27373e8d98ab6b30a839e74569e2a725c3c",
+          "line": 1,
+          "text": "# Economics reading\n\nFor the economics reading, review supply, demand, equilibrium, and price elasticity. Sketch the supply and demand curves, identify which curve shifts in each example, and explain the effect on equilibrium price and quantity.\n\nAfter each economics section, close the book and summarize the main idea from memory. Compare elastic and inelastic demand using examples, then attempt the end-of-chapter questions. Record unfamiliar terms so they can be reviewed before the next class.",
+          "score": 0.5268
+        }
+      ]
+    },
+    {
+      "day": "2026-11-27",
+      "task_id": "reading",
+      "title": "Economics reading",
+      "minutes": 30,
+      "study_goal": "Review economic principles including supply, demand, equilibrium, and price elasticity by sketching curves and analyzing their impacts on market prices and quantities.",
+      "sources": [
+        {
+          "start_index": 0,
+          "source": "economics.md",
+          "source_id": "economics.md#1",
+          "document_sha256": "e9a01acc90f08d0a96ab130cfe32a27373e8d98ab6b30a839e74569e2a725c3c",
+          "line": 1,
+          "text": "# Economics reading\n\nFor the economics reading, review supply, demand, equilibrium, and price elasticity. Sketch the supply and demand curves, identify which curve shifts in each example, and explain the effect on equilibrium price and quantity.\n\nAfter each economics section, close the book and summarize the main idea from memory. Compare elastic and inelastic demand using examples, then attempt the end-of-chapter questions. Record unfamiliar terms so they can be reviewed before the next class.",
+          "score": 0.5268
+        }
+      ]
+    },
+    {
+      "day": "2026-11-27",
+      "task_id": "reading",
+      "title": "Economics reading",
+      "minutes": 30,
+      "study_goal": "Review and understand supply, demand, equilibrium, and price elasticity by sketching curves and explaining their effects on equilibrium price and quantity.",
+      "sources": [
+        {
+          "start_index": 0,
+          "source": "economics.md",
+          "source_id": "economics.md#1",
+          "document_sha256": "e9a01acc90f08d0a96ab130cfe32a27373e8d98ab6b30a839e74569e2a725c3c",
+          "line": 1,
+          "text": "# Economics reading\n\nFor the economics reading, review supply, demand, equilibrium, and price elasticity. Sketch the supply and demand curves, identify which curve shifts in each example, and explain the effect on equilibrium price and quantity.\n\nAfter each economics section, close the book and summarize the main idea from memory. Compare elastic and inelastic demand using examples, then attempt the end-of-chapter questions. Record unfamiliar terms so they can be reviewed before the next class.",
+          "score": 0.5268
+        }
+      ]
+    }
+  ],
+  "notes_manifest": {
+    "algorithm": "sha256",
+    "corpus_sha256": "dc14e1f9678255f380fc91fdb9c561087ccf50d9ccd36e0acafc09136b0a5174",
+    "documents": [
+      {
+        "source": "economics.md",
+        "sha256": "e9a01acc90f08d0a96ab130cfe32a27373e8d98ab6b30a839e74569e2a725c3c",
+        "bytes": 500
+      },
+      {
+        "source": "history.md",
+        "sha256": "3e237c80caf17ce1b836c540017c9d3c34e7e6cbbe6597db3484993de9b8ab15",
+        "bytes": 520
+      },
+      {
+        "source": "presentation.md",
+        "sha256": "e8a232e2c653e82888e74a36ce1d03a144de7bd483e9a0880c7131a8b4617513",
+        "bytes": 521
+      },
+      {
+        "source": "python.md",
+        "sha256": "8cea20cf06c25efa8cd4a89408c36822d39abec7024f348efd07b7df9ce8574d",
+        "bytes": 495
+      },
+      {
+        "source": "statistics.md",
+        "sha256": "8d12b42c7d03388fbf367f9c5b83bad104bc4114736906aeb2ae76d9c8654115",
+        "bytes": 638
+      }
+    ]
+  },
+  "unplanned": [
+    {
+      "task_id": "slides",
+      "title": "Group presentation slides",
+      "due": "2026-11-24",
+      "minutes_left": 120
+    }
+  ],
+  "unused_minutes": {
+    "2026-11-23": 0,
+    "2026-11-24": 0,
+    "2026-11-25": 0,
+    "2026-11-26": 0,
+    "2026-11-27": 0
+  },
+  "trace": [
+    {
+      "node": "inspect_day",
+      "day": "2026-11-23",
+      "free_minutes": 90,
+      "candidates": [
+        "stats",
+        "essay",
+        "lab",
+        "reading",
+        "slides"
+      ]
+    },
+    {
+      "node": "retrieve_notes",
+      "sources": {
+        "stats": [
+          "statistics.md#1"
+        ],
+        "essay": [
+          "history.md#1"
+        ],
+        "lab": [
+          "python.md#1"
+        ],
+        "reading": [
+          "economics.md#1"
+        ],
+        "slides": [
+          "presentation.md#1"
+        ]
+      }
+    },
+    {
+      "node": "choose_task",
+      "day": "2026-11-23",
+      "task_id": "stats",
+      "reason": "The Statistics problem set has an urgent deadline (2026-11-24) compared to other tasks, making it a priority. The study_goal is to practice confidence intervals and hypothesis tests by identifying sample mean, standard deviation, and size, checking assumptions before choosing formulas.",
+      "study_goal": "# Practice confidence intervals and hypothesis tests\n\nStart by practicing with the provided notes from 'statistics.md#1'. Focus on understanding how to identify necessary statistics for these statistical methods.",
+      "source_ids": [
+        "statistics.md#1"
+      ]
+    },
+    {
+      "node": "book_session",
+      "day": "2026-11-23",
+      "task_id": "stats",
+      "title": "Statistics problem set",
+      "minutes": 30,
+      "study_goal": "# Practice confidence intervals and hypothesis tests\n\nStart by practicing with the provided notes from 'statistics.md#1'. Focus on understanding how to identify necessary statistics for these statistical methods.",
+      "sources": [
+        {
+          "start_index": 0,
+          "source": "statistics.md",
+          "source_id": "statistics.md#1",
+          "document_sha256": "8d12b42c7d03388fbf367f9c5b83bad104bc4114736906aeb2ae76d9c8654115",
+          "line": 1,
+          "text": "# Statistics problem set\n\nFor the statistics problem set, practice confidence intervals and hypothesis tests. Start by identifying the sample mean, sample standard deviation, and sample size. Check the independence and distribution assumptions before choosing a formula.",
+          "score": 0.6303
+        }
+      ]
+    },
+    {
+      "node": "inspect_day",
+      "day": "2026-11-23",
+      "free_minutes": 60,
+      "candidates": [
+        "stats",
+        "essay",
+        "lab",
+        "reading",
+        "slides"
+      ]
+    },
+    {
+      "node": "retrieve_notes",
+      "sources": {
+        "stats": [
+          "statistics.md#1"
+        ],
+        "essay": [
+          "history.md#1"
+        ],
+        "lab": [
+          "python.md#1"
+        ],
+        "reading": [
+          "economics.md#1"
+        ],
+        "slides": [
+          "presentation.md#1"
+        ]
+      }
+    },
+    {
+      "node": "choose_task",
+      "day": "2026-11-23",
+      "task_id": "stats",
+      "reason": "The statistics problem set task has an urgent deadline (2026-11-24) compared to other tasks, making it the next best choice given the constraint of free minutes available (60). The retrieved notes provide clear guidance on practicing confidence intervals and hypothesis tests by first identifying sample mean, standard deviation, and size. This aligns with a concrete study goal: ",
+      "study_goal": "Practice confidence intervals and hypothesis tests using provided data sets.",
+      "source_ids": [
+        "statistics.md#1"
+      ]
+    },
+    {
+      "node": "book_session",
+      "day": "2026-11-23",
+      "task_id": "stats",
+      "title": "Statistics problem set",
+      "minutes": 30,
+      "study_goal": "Practice confidence intervals and hypothesis tests using provided data sets.",
+      "sources": [
+        {
+          "start_index": 0,
+          "source": "statistics.md",
+          "source_id": "statistics.md#1",
+          "document_sha256": "8d12b42c7d03388fbf367f9c5b83bad104bc4114736906aeb2ae76d9c8654115",
+          "line": 1,
+          "text": "# Statistics problem set\n\nFor the statistics problem set, practice confidence intervals and hypothesis tests. Start by identifying the sample mean, sample standard deviation, and sample size. Check the independence and distribution assumptions before choosing a formula.",
+          "score": 0.6303
+        }
+      ]
+    },
+    {
+      "node": "inspect_day",
+      "day": "2026-11-23",
+      "free_minutes": 30,
+      "candidates": [
+        "stats",
+        "essay",
+        "lab",
+        "reading",
+        "slides"
+      ]
+    },
+    {
+      "node": "retrieve_notes",
+      "sources": {
+        "stats": [
+          "statistics.md#1"
+        ],
+        "essay": [
+          "history.md#1"
+        ],
+        "lab": [
+          "python.md#1"
+        ],
+        "reading": [
+          "economics.md#1"
+        ],
+        "slides": [
+          "presentation.md#1"
+        ]
+      }
+    },
+    {
+      "node": "choose_task",
+      "day": "2026-11-23",
+      "task_id": "stats",
+      "reason": "The statistics problem set has an urgent deadline (2026-11-24) compared to other tasks, making it a priority. The study_goal is to practice confidence intervals and hypothesis tests by identifying sample mean, standard deviation, and size, checking assumptions before choosing formulas.",
+      "study_goal": "Practice calculating confidence intervals and conducting hypothesis tests using provided data sets.",
+      "source_ids": [
+        "statistics.md#1"
+      ]
+    },
+    {
+      "node": "book_session",
+      "day": "2026-11-23",
+      "task_id": "stats",
+      "title": "Statistics problem set",
+      "minutes": 30,
+      "study_goal": "Practice calculating confidence intervals and conducting hypothesis tests using provided data sets.",
+      "sources": [
+        {
+          "start_index": 0,
+          "source": "statistics.md",
+          "source_id": "statistics.md#1",
+          "document_sha256": "8d12b42c7d03388fbf367f9c5b83bad104bc4114736906aeb2ae76d9c8654115",
+          "line": 1,
+          "text": "# Statistics problem set\n\nFor the statistics problem set, practice confidence intervals and hypothesis tests. Start by identifying the sample mean, sample standard deviation, and sample size. Check the independence and distribution assumptions before choosing a formula.",
+          "score": 0.6303
+        }
+      ]
+    },
+    {
+      "node": "inspect_day",
+      "day": "2026-11-23",
+      "free_minutes": 0,
+      "candidates": [
+        "essay",
+        "lab",
+        "reading",
+        "slides"
+      ]
+    },
+    {
+      "node": "inspect_day",
+      "day": "2026-11-24",
+      "free_minutes": 60,
+      "candidates": [
+        "essay",
+        "lab",
+        "reading",
+        "slides"
+      ]
+    },
+    {
+      "node": "retrieve_notes",
+      "sources": {
+        "essay": [
+          "history.md#1"
+        ],
+        "lab": [
+          "python.md#1"
+        ],
+        "reading": [
+          "economics.md#1"
+        ],
+        "slides": [
+          "presentation.md#1"
+        ]
+      }
+    },
+    {
+      "node": "choose_task",
+      "day": "2026-11-24",
+      "task_id": "essay",
+      "reason": "The essay task has an urgent deadline (2026-11-25) and is of moderate importance, given it's a draft for a history essay which requires careful planning and argumentation. The notes provide specific guidance on how to structure the essay effectively using primary sources and citations, making it a high-stakes assignment that needs immediate attention.",
+      "study_goal": "# Write an arguable thesis before drafting the body of the history essay.\n\nUse primary sources as evidence, distinguish an author's claim from your own interpretation, and connect each paragraph back to the thesis. Plan the essay in three stages: outline the argument, draft paragraphs with evidence, then revise the introduction and conclusion.",
+      "source_ids": [
+        "history.md#1"
+      ]
+    },
+    {
+      "node": "book_session",
+      "day": "2026-11-24",
+      "task_id": "essay",
+      "title": "History essay draft",
+      "minutes": 30,
+      "study_goal": "# Write an arguable thesis before drafting the body of the history essay.\n\nUse primary sources as evidence, distinguish an author's claim from your own interpretation, and connect each paragraph back to the thesis. Plan the essay in three stages: outline the argument, draft paragraphs with evidence, then revise the introduction and conclusion.",
+      "sources": [
+        {
+          "start_index": 0,
+          "source": "history.md",
+          "source_id": "history.md#1",
+          "document_sha256": "3e237c80caf17ce1b836c540017c9d3c34e7e6cbbe6597db3484993de9b8ab15",
+          "line": 1,
+          "text": "# History essay draft\n\nFor the history essay draft, write an arguable thesis before drafting the body. Use primary sources as evidence, distinguish an author's claim from your own interpretation, and connect each paragraph back to the thesis.\n\nPlan the history essay in three stages: outline the argument, draft paragraphs with evidence, then revise the introduction and conclusion. Keep a bibliography while writing and cite quotations and paraphrases. Check the assignment's required citation style before submitting.",
+          "score": 0.7261
+        }
+      ]
+    },
+    {
+      "node": "inspect_day",
+      "day": "2026-11-24",
+      "free_minutes": 30,
+      "candidates": [
+        "essay",
+        "lab",
+        "reading",
+        "slides"
+      ]
+    },
+    {
+      "node": "retrieve_notes",
+      "sources": {
+        "essay": [
+          "history.md#1"
+        ],
+        "lab": [
+          "python.md#1"
+        ],
+        "reading": [
+          "economics.md#1"
+        ],
+        "slides": [
+          "presentation.md#1"
+        ]
+      }
+    },
+    {
+      "node": "choose_task",
+      "day": "2026-11-24",
+      "task_id": "essay",
+      "reason": "The essay task has an urgent deadline (2026-11-25) and is of moderate importance, given it's a draft for a history essay. The notes provide detailed guidance on how to structure the argument effectively using primary sources and citations, which aligns with my current need to write a coherent and evidence-backed academic piece.",
+      "study_goal": "Write an arguable thesis for the history essay draft and use primary sources as evidence in drafting the body of the essay.",
+      "source_ids": [
+        "history.md#1"
+      ]
+    },
+    {
+      "node": "book_session",
+      "day": "2026-11-24",
+      "task_id": "essay",
+      "title": "History essay draft",
+      "minutes": 30,
+      "study_goal": "Write an arguable thesis for the history essay draft and use primary sources as evidence in drafting the body of the essay.",
+      "sources": [
+        {
+          "start_index": 0,
+          "source": "history.md",
+          "source_id": "history.md#1",
+          "document_sha256": "3e237c80caf17ce1b836c540017c9d3c34e7e6cbbe6597db3484993de9b8ab15",
+          "line": 1,
+          "text": "# History essay draft\n\nFor the history essay draft, write an arguable thesis before drafting the body. Use primary sources as evidence, distinguish an author's claim from your own interpretation, and connect each paragraph back to the thesis.\n\nPlan the history essay in three stages: outline the argument, draft paragraphs with evidence, then revise the introduction and conclusion. Keep a bibliography while writing and cite quotations and paraphrases. Check the assignment's required citation style before submitting.",
+          "score": 0.7261
+        }
+      ]
+    },
+    {
+      "node": "inspect_day",
+      "day": "2026-11-24",
+      "free_minutes": 0,
+      "candidates": [
+        "essay",
+        "lab",
+        "reading",
+        "slides"
+      ]
+    },
+    {
+      "node": "inspect_day",
+      "day": "2026-11-25",
+      "free_minutes": 120,
+      "candidates": [
+        "essay",
+        "lab",
+        "reading"
+      ]
+    },
+    {
+      "node": "retrieve_notes",
+      "sources": {
+        "essay": [
+          "history.md#1"
+        ],
+        "lab": [
+          "python.md#1"
+        ],
+        "reading": [
+          "economics.md#1"
+        ]
+      }
+    },
+    {
+      "node": "choose_task",
+      "day": "2026-11-25",
+      "task_id": "essay",
+      "reason": "The essay task has an urgent deadline and is of moderate importance, aligning with the preference for tackling tasks that are both time-sensitive and impactful. The retrieved notes provide a structured approach to writing an effective history essay draft, including planning stages and citation guidelines. This will help ensure I meet all requirements while improving my academic performance.",
+      "study_goal": "Write an arguable thesis for the history essay draft using primary sources as evidence, distinguishing between author's claims and personal interpretations, and connecting each paragraph back to the thesis.",
+      "source_ids": [
+        "history.md#1"
+      ]
+    },
+    {
+      "node": "book_session",
+      "day": "2026-11-25",
+      "task_id": "essay",
+      "title": "History essay draft",
+      "minutes": 30,
+      "study_goal": "Write an arguable thesis for the history essay draft using primary sources as evidence, distinguishing between author's claims and personal interpretations, and connecting each paragraph back to the thesis.",
+      "sources": [
+        {
+          "start_index": 0,
+          "source": "history.md",
+          "source_id": "history.md#1",
+          "document_sha256": "3e237c80caf17ce1b836c540017c9d3c34e7e6cbbe6597db3484993de9b8ab15",
+          "line": 1,
+          "text": "# History essay draft\n\nFor the history essay draft, write an arguable thesis before drafting the body. Use primary sources as evidence, distinguish an author's claim from your own interpretation, and connect each paragraph back to the thesis.\n\nPlan the history essay in three stages: outline the argument, draft paragraphs with evidence, then revise the introduction and conclusion. Keep a bibliography while writing and cite quotations and paraphrases. Check the assignment's required citation style before submitting.",
+          "score": 0.7261
+        }
+      ]
+    },
+    {
+      "node": "inspect_day",
+      "day": "2026-11-25",
+      "free_minutes": 90,
+      "candidates": [
+        "essay",
+        "lab",
+        "reading"
+      ]
+    },
+    {
+      "node": "retrieve_notes",
+      "sources": {
+        "essay": [
+          "history.md#1"
+        ],
+        "lab": [
+          "python.md#1"
+        ],
+        "reading": [
+          "economics.md#1"
+        ]
+      }
+    },
+    {
+      "node": "choose_task",
+      "day": "2026-11-25",
+      "task_id": "essay",
+      "reason": "The essay task has an urgent deadline and is of high importance for academic progress, aligning with a strong thesis and clear argumentation as per the retrieved notes from 'history.md'. The study_goal should be to write an arguable thesis before drafting the body of the history essay. This goal will ensure timely submission while adhering to the required citation style.",
+      "study_goal": "Write an arguable thesis for the history essay draft and use primary sources as evidence, distinguishing between author's claims and personal interpretations.",
+      "source_ids": [
+        "history.md#1"
+      ]
+    },
+    {
+      "node": "book_session",
+      "day": "2026-11-25",
+      "task_id": "essay",
+      "title": "History essay draft",
+      "minutes": 30,
+      "study_goal": "Write an arguable thesis for the history essay draft and use primary sources as evidence, distinguishing between author's claims and personal interpretations.",
+      "sources": [
+        {
+          "start_index": 0,
+          "source": "history.md",
+          "source_id": "history.md#1",
+          "document_sha256": "3e237c80caf17ce1b836c540017c9d3c34e7e6cbbe6597db3484993de9b8ab15",
+          "line": 1,
+          "text": "# History essay draft\n\nFor the history essay draft, write an arguable thesis before drafting the body. Use primary sources as evidence, distinguish an author's claim from your own interpretation, and connect each paragraph back to the thesis.\n\nPlan the history essay in three stages: outline the argument, draft paragraphs with evidence, then revise the introduction and conclusion. Keep a bibliography while writing and cite quotations and paraphrases. Check the assignment's required citation style before submitting.",
+          "score": 0.7261
+        }
+      ]
+    },
+    {
+      "node": "inspect_day",
+      "day": "2026-11-25",
+      "free_minutes": 60,
+      "candidates": [
+        "lab",
+        "reading"
+      ]
+    },
+    {
+      "node": "retrieve_notes",
+      "sources": {
+        "lab": [
+          "python.md#1"
+        ],
+        "reading": [
+          "economics.md#1"
+        ]
+      }
+    },
+    {
+      "node": "choose_task",
+      "day": "2026-11-25",
+      "task_id": "lab",
+      "reason": "The Python lab task has an urgent deadline and is marked as more important (priority 5) compared to the Economics reading task which has a later due date (priority 2). The notes for the lab provide specific instructions on how to approach the assignment, including breaking down code into functions, writing unit tests, and handling errors. This makes it easier to start studying immediately.",
+      "study_goal": "To break down the Python lab program into small functions with clear inputs and outputs as instructed in the retrieved notes.",
+      "source_ids": [
+        "python.md#1"
+      ]
+    },
+    {
+      "node": "book_session",
+      "day": "2026-11-25",
+      "task_id": "lab",
+      "title": "Python lab",
+      "minutes": 30,
+      "study_goal": "To break down the Python lab program into small functions with clear inputs and outputs as instructed in the retrieved notes.",
+      "sources": [
+        {
+          "start_index": 0,
+          "source": "python.md",
+          "source_id": "python.md#1",
+          "document_sha256": "8cea20cf06c25efa8cd4a89408c36822d39abec7024f348efd07b7df9ce8574d",
+          "line": 1,
+          "text": "# Python lab\n\nFor the Python lab, break the program into small functions with clear inputs and outputs. Implement the core behavior first, then write unit tests covering normal input, empty input, and invalid values. Use pytest to run the tests locally.\n\nBefore submitting the Python lab, check file paths and handle missing files with a helpful error. Test the code with a fresh virtual environment and keep dependencies in requirements.txt. Do not hardcode personal file paths or credentials.",
+          "score": 0.5427
+        }
+      ]
+    },
+    {
+      "node": "inspect_day",
+      "day": "2026-11-25",
+      "free_minutes": 30,
+      "candidates": [
+        "lab",
+        "reading"
+      ]
+    },
+    {
+      "node": "retrieve_notes",
+      "sources": {
+        "lab": [
+          "python.md#1"
+        ],
+        "reading": [
+          "economics.md#1"
+        ]
+      }
+    },
+    {
+      "node": "choose_task",
+      "day": "2026-11-25",
+      "task_id": "lab",
+      "reason": "The Python lab has an urgent deadline (due: 2026-11-25) and a high priority level (priority: 5). It requires breaking the program into functions, implementing core behavior with tests, and handling errors. This aligns well with my available free minutes (30), suggesting I can work on this task efficiently.",
+      "study_goal": "Implement the Python lab by writing small functions for the program, ensuring clear inputs and outputs, and creating unit tests to cover various scenarios including normal input, empty input, and invalid values using pytest. Additionally, prepare a fresh virtual environment and manage dependencies in requirements.txt.",
+      "source_ids": [
+        "python.md#1"
+      ]
+    },
+    {
+      "node": "book_session",
+      "day": "2026-11-25",
+      "task_id": "lab",
+      "title": "Python lab",
+      "minutes": 30,
+      "study_goal": "Implement the Python lab by writing small functions for the program, ensuring clear inputs and outputs, and creating unit tests to cover various scenarios including normal input, empty input, and invalid values using pytest. Additionally, prepare a fresh virtual environment and manage dependencies in requirements.txt.",
+      "sources": [
+        {
+          "start_index": 0,
+          "source": "python.md",
+          "source_id": "python.md#1",
+          "document_sha256": "8cea20cf06c25efa8cd4a89408c36822d39abec7024f348efd07b7df9ce8574d",
+          "line": 1,
+          "text": "# Python lab\n\nFor the Python lab, break the program into small functions with clear inputs and outputs. Implement the core behavior first, then write unit tests covering normal input, empty input, and invalid values. Use pytest to run the tests locally.\n\nBefore submitting the Python lab, check file paths and handle missing files with a helpful error. Test the code with a fresh virtual environment and keep dependencies in requirements.txt. Do not hardcode personal file paths or credentials.",
+          "score": 0.5427
+        }
+      ]
+    },
+    {
+      "node": "inspect_day",
+      "day": "2026-11-25",
+      "free_minutes": 0,
+      "candidates": [
+        "reading"
+      ]
+    },
+    {
+      "node": "inspect_day",
+      "day": "2026-11-26",
+      "free_minutes": 0,
+      "candidates": [
+        "reading"
+      ]
+    },
+    {
+      "node": "inspect_day",
+      "day": "2026-11-27",
+      "free_minutes": 90,
+      "candidates": [
+        "reading"
+      ]
+    },
+    {
+      "node": "retrieve_notes",
+      "sources": {
+        "reading": [
+          "economics.md#1"
+        ]
+      }
+    },
+    {
+      "node": "choose_task",
+      "day": "2026-11-27",
+      "task_id": "reading",
+      "reason": "The task has an urgent deadline and is marked as important with a priority level of 2, indicating it requires attention soon. The study goal should focus on understanding supply, demand, equilibrium, and price elasticity by reviewing the provided notes from 'economics.md'. ",
+      "study_goal": "Review economics reading material focusing on supply, demand, equilibrium, and price elasticity, sketch curves, identify shifts, and understand their effects.",
+      "source_ids": [
+        "economics.md#1"
+      ]
+    },
+    {
+      "node": "book_session",
+      "day": "2026-11-27",
+      "task_id": "reading",
+      "title": "Economics reading",
+      "minutes": 30,
+      "study_goal": "Review economics reading material focusing on supply, demand, equilibrium, and price elasticity, sketch curves, identify shifts, and understand their effects.",
+      "sources": [
+        {
+          "start_index": 0,
+          "source": "economics.md",
+          "source_id": "economics.md#1",
+          "document_sha256": "e9a01acc90f08d0a96ab130cfe32a27373e8d98ab6b30a839e74569e2a725c3c",
+          "line": 1,
+          "text": "# Economics reading\n\nFor the economics reading, review supply, demand, equilibrium, and price elasticity. Sketch the supply and demand curves, identify which curve shifts in each example, and explain the effect on equilibrium price and quantity.\n\nAfter each economics section, close the book and summarize the main idea from memory. Compare elastic and inelastic demand using examples, then attempt the end-of-chapter questions. Record unfamiliar terms so they can be reviewed before the next class.",
+          "score": 0.5268
+        }
+      ]
+    },
+    {
+      "node": "inspect_day",
+      "day": "2026-11-27",
+      "free_minutes": 60,
+      "candidates": [
+        "reading"
+      ]
+    },
+    {
+      "node": "retrieve_notes",
+      "sources": {
+        "reading": [
+          "economics.md#1"
+        ]
+      }
+    },
+    {
+      "node": "choose_task",
+      "day": "2026-11-27",
+      "task_id": "reading",
+      "reason": "The Economics reading task has an urgent deadline and is marked as important, aligning with my current free minutes of 60. The study_goal should focus on reviewing supply, demand, equilibrium, and price elasticity, sketching curves, and understanding the effects on equilibrium price and quantity.",
+      "study_goal": "Review economic principles including supply, demand, equilibrium, and price elasticity by sketching curves and analyzing their impacts on market prices and quantities.",
+      "source_ids": [
+        "economics.md#1"
+      ]
+    },
+    {
+      "node": "book_session",
+      "day": "2026-11-27",
+      "task_id": "reading",
+      "title": "Economics reading",
+      "minutes": 30,
+      "study_goal": "Review economic principles including supply, demand, equilibrium, and price elasticity by sketching curves and analyzing their impacts on market prices and quantities.",
+      "sources": [
+        {
+          "start_index": 0,
+          "source": "economics.md",
+          "source_id": "economics.md#1",
+          "document_sha256": "e9a01acc90f08d0a96ab130cfe32a27373e8d98ab6b30a839e74569e2a725c3c",
+          "line": 1,
+          "text": "# Economics reading\n\nFor the economics reading, review supply, demand, equilibrium, and price elasticity. Sketch the supply and demand curves, identify which curve shifts in each example, and explain the effect on equilibrium price and quantity.\n\nAfter each economics section, close the book and summarize the main idea from memory. Compare elastic and inelastic demand using examples, then attempt the end-of-chapter questions. Record unfamiliar terms so they can be reviewed before the next class.",
+          "score": 0.5268
+        }
+      ]
+    },
+    {
+      "node": "inspect_day",
+      "day": "2026-11-27",
+      "free_minutes": 30,
+      "candidates": [
+        "reading"
+      ]
+    },
+    {
+      "node": "retrieve_notes",
+      "sources": {
+        "reading": [
+          "economics.md#1"
+        ]
+      }
+    },
+    {
+      "node": "choose_task",
+      "day": "2026-11-27",
+      "task_id": "reading",
+      "reason": "The Economics reading task has an urgent deadline and is marked as important, aligning with the preference for choosing tasks based on urgency and importance. The study_goal should focus on understanding supply, demand, equilibrium, and price elasticity by sketching curves and explaining effects on prices and quantities.",
+      "study_goal": "Review and understand supply, demand, equilibrium, and price elasticity by sketching curves and explaining their effects on equilibrium price and quantity.",
+      "source_ids": [
+        "economics.md#1"
+      ]
+    },
+    {
+      "node": "book_session",
+      "day": "2026-11-27",
+      "task_id": "reading",
+      "title": "Economics reading",
+      "minutes": 30,
+      "study_goal": "Review and understand supply, demand, equilibrium, and price elasticity by sketching curves and explaining their effects on equilibrium price and quantity.",
+      "sources": [
+        {
+          "start_index": 0,
+          "source": "economics.md",
+          "source_id": "economics.md#1",
+          "document_sha256": "e9a01acc90f08d0a96ab130cfe32a27373e8d98ab6b30a839e74569e2a725c3c",
+          "line": 1,
+          "text": "# Economics reading\n\nFor the economics reading, review supply, demand, equilibrium, and price elasticity. Sketch the supply and demand curves, identify which curve shifts in each example, and explain the effect on equilibrium price and quantity.\n\nAfter each economics section, close the book and summarize the main idea from memory. Compare elastic and inelastic demand using examples, then attempt the end-of-chapter questions. Record unfamiliar terms so they can be reviewed before the next class.",
+          "score": 0.5268
+        }
+      ]
+    },
+    {
+      "node": "inspect_day",
+      "day": "2026-11-27",
+      "free_minutes": 0,
+      "candidates": []
+    }
+  ],
+  "mode": "ollama:qwen2.5:3b",
+  "retrieval": {
+    "backend": "semantic",
+    "chunks": 6,
+    "embedding_model": "all-minilm"
+  }
+}

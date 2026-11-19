@@ -1,0 +1,16 @@
+{
+  "tasks": [
+    {"id": "stats", "title": "Statistics problem set", "due": "2026-11-24", "minutes": 90, "priority": 5},
+    {"id": "essay", "title": "History essay draft", "due": "2026-11-25", "minutes": 120, "priority": 4},
+    {"id": "lab", "title": "Python lab", "due": "2026-11-25", "minutes": 60, "priority": 5},
+    {"id": "reading", "title": "Economics reading", "due": "2026-11-27", "minutes": 90, "priority": 2},
+    {"id": "slides", "title": "Group presentation slides", "due": "2026-11-24", "minutes": 120, "priority": 3}
+  ],
+  "availability": {
+    "2026-11-23": 90,
+    "2026-11-24": 60,
+    "2026-11-25": 120,
+    "2026-11-26": 0,
+    "2026-11-27": 90
+  }
+}

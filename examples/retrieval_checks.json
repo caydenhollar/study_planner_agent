@@ -1,0 +1,14 @@
+[
+  {"query": "How do I interpret a p-value and choose a null hypothesis?", "source": "statistics.md"},
+  {"query": "What steps calculate uncertainty around a sample mean?", "source": "statistics.md"},
+  {"query": "How do I develop an argument using primary sources?", "source": "history.md"},
+  {"query": "How should I organize and cite an essay draft?", "source": "history.md"},
+  {"query": "How can I check my functions with normal and invalid inputs?", "source": "python.md"},
+  {"query": "How should I submit a program with dependencies and file paths?", "source": "python.md"},
+  {"query": "What should I review about elasticity and market equilibrium?", "source": "economics.md"},
+  {"query": "How do supply and demand shifts affect price?", "source": "economics.md"},
+  {"query": "How do we coordinate speakers and rehearse our slides?", "source": "presentation.md"},
+  {"query": "What should go into the final slide of a group talk?", "source": "presentation.md"},
+  {"query": "What is the capital of Mongolia?", "source": null},
+  {"query": "What dose of antibiotics treats an ear infection?", "source": null}
+]

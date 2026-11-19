@@ -1,0 +1,51 @@
+{
+  "model": "qwen2.5:3b",
+  "digest": "357c53fb659c5076de1d65ccb0b397446227b71a42be9d1603d46168015c9e4b",
+  "temperature": 0,
+  "framework": "LangGraph",
+  "notes_manifest": {
+    "algorithm": "sha256",
+    "corpus_sha256": "dc14e1f9678255f380fc91fdb9c561087ccf50d9ccd36e0acafc09136b0a5174",
+    "documents": [
+      {
+        "source": "economics.md",
+        "sha256": "e9a01acc90f08d0a96ab130cfe32a27373e8d98ab6b30a839e74569e2a725c3c",
+        "bytes": 500
+      },
+      {
+        "source": "history.md",
+        "sha256": "3e237c80caf17ce1b836c540017c9d3c34e7e6cbbe6597db3484993de9b8ab15",
+        "bytes": 520
+      },
+      {
+        "source": "presentation.md",
+        "sha256": "e8a232e2c653e82888e74a36ce1d03a144de7bd483e9a0880c7131a8b4617513",
+        "bytes": 521
+      },
+      {
+        "source": "python.md",
+        "sha256": "8cea20cf06c25efa8cd4a89408c36822d39abec7024f348efd07b7df9ce8574d",
+        "bytes": 495
+      },
+      {
+        "source": "statistics.md",
+        "sha256": "8d12b42c7d03388fbf367f9c5b83bad104bc4114736906aeb2ae76d9c8654115",
+        "bytes": 638
+      }
+    ]
+  },
+  "unit_tests": 42,
+  "native_run": "passed",
+  "docker_run": "passed",
+  "embedding_model": "all-minilm:latest",
+  "embedding_digest": "1b226e2802dbb772b5fc32a58f103ca1804ef7501331012de126ab22f67475ef",
+  "constraints_checked": [
+    "deadlines",
+    "daily availability",
+    "work accounting",
+    "citations reference retrieved passages",
+    "source text matches local notes",
+    "document SHA256 versions",
+    "portable corpus manifest"
+  ]
+}

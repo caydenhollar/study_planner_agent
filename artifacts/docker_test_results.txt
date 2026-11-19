@@ -1,0 +1,18 @@
+Image: cayden-study-planner
+Image ID: sha256:ebbfe3b33946624441f61f1a8f0f80a0e34167e193630d5cae7afbdb41645816
+Platform: linux/arm64
+Build including unit tests: passed
+
+Container unit tests (network disabled):
+..........................................                               [100%]
+42 passed in 0.36s
+
+Offline demo with host-mounted output:
+LangGraph (offline): scheduled 360 minutes; 2 assignment(s) need more time.
+Plan and decision trace saved to artifacts
+
+Real local-model demo through host Ollama with host-mounted output:
+LangGraph (ollama:qwen2.5:3b): scheduled 360 minutes; 1 assignment(s) need more time.
+Plan and decision trace saved to artifacts/llm_demo
+
+Both runs: deadline, daily capacity, work accounting, retrieved citations, source-text, document hashes, and corpus manifest checks passed.

@@ -1,0 +1,189 @@
+{
+  "backend": "semantic",
+  "chunks": 6,
+  "k": 2,
+  "notes_manifest": {
+    "algorithm": "sha256",
+    "corpus_sha256": "dc14e1f9678255f380fc91fdb9c561087ccf50d9ccd36e0acafc09136b0a5174",
+    "documents": [
+      {
+        "source": "economics.md",
+        "sha256": "e9a01acc90f08d0a96ab130cfe32a27373e8d98ab6b30a839e74569e2a725c3c",
+        "bytes": 500
+      },
+      {
+        "source": "history.md",
+        "sha256": "3e237c80caf17ce1b836c540017c9d3c34e7e6cbbe6597db3484993de9b8ab15",
+        "bytes": 520
+      },
+      {
+        "source": "presentation.md",
+        "sha256": "e8a232e2c653e82888e74a36ce1d03a144de7bd483e9a0880c7131a8b4617513",
+        "bytes": 521
+      },
+      {
+        "source": "python.md",
+        "sha256": "8cea20cf06c25efa8cd4a89408c36822d39abec7024f348efd07b7df9ce8574d",
+        "bytes": 495
+      },
+      {
+        "source": "statistics.md",
+        "sha256": "8d12b42c7d03388fbf367f9c5b83bad104bc4114736906aeb2ae76d9c8654115",
+        "bytes": 638
+      }
+    ]
+  },
+  "min_score": 0.35,
+  "note": "Small example checks, not a general quality benchmark. Generation quality is not scored.",
+  "source_recall_at_2": 0.9,
+  "mean_reciprocal_rank": 0.9,
+  "no_match_accuracy": 1.0,
+  "cases": [
+    {
+      "query": "How do I interpret a p-value and choose a null hypothesis?",
+      "source": "statistics.md",
+      "retrieved_sources": [
+        "statistics.md"
+      ],
+      "scores": [
+        0.6438
+      ],
+      "matched": true,
+      "reciprocal_rank": 1.0,
+      "latency_ms": 22.44
+    },
+    {
+      "query": "What steps calculate uncertainty around a sample mean?",
+      "source": "statistics.md",
+      "retrieved_sources": [
+        "statistics.md",
+        "statistics.md"
+      ],
+      "scores": [
+        0.458,
+        0.4412
+      ],
+      "matched": true,
+      "reciprocal_rank": 1.0,
+      "latency_ms": 17.31
+    },
+    {
+      "query": "How do I develop an argument using primary sources?",
+      "source": "history.md",
+      "retrieved_sources": [
+        "history.md"
+      ],
+      "scores": [
+        0.4112
+      ],
+      "matched": true,
+      "reciprocal_rank": 1.0,
+      "latency_ms": 17.71
+    },
+    {
+      "query": "How should I organize and cite an essay draft?",
+      "source": "history.md",
+      "retrieved_sources": [
+        "history.md"
+      ],
+      "scores": [
+        0.6846
+      ],
+      "matched": true,
+      "reciprocal_rank": 1.0,
+      "latency_ms": 17.33
+    },
+    {
+      "query": "How can I check my functions with normal and invalid inputs?",
+      "source": "python.md",
+      "retrieved_sources": [],
+      "scores": [],
+      "matched": false,
+      "reciprocal_rank": 0,
+      "latency_ms": 17.42
+    },
+    {
+      "query": "How should I submit a program with dependencies and file paths?",
+      "source": "python.md",
+      "retrieved_sources": [
+        "python.md"
+      ],
+      "scores": [
+        0.4173
+      ],
+      "matched": true,
+      "reciprocal_rank": 1.0,
+      "latency_ms": 18.73
+    },
+    {
+      "query": "What should I review about elasticity and market equilibrium?",
+      "source": "economics.md",
+      "retrieved_sources": [
+        "economics.md"
+      ],
+      "scores": [
+        0.6432
+      ],
+      "matched": true,
+      "reciprocal_rank": 1.0,
+      "latency_ms": 39.76
+    },
+    {
+      "query": "How do supply and demand shifts affect price?",
+      "source": "economics.md",
+      "retrieved_sources": [
+        "economics.md"
+      ],
+      "scores": [
+        0.6322
+      ],
+      "matched": true,
+      "reciprocal_rank": 1.0,
+      "latency_ms": 18.91
+    },
+    {
+      "query": "How do we coordinate speakers and rehearse our slides?",
+      "source": "presentation.md",
+      "retrieved_sources": [
+        "presentation.md"
+      ],
+      "scores": [
+        0.5327
+      ],
+      "matched": true,
+      "reciprocal_rank": 1.0,
+      "latency_ms": 18.36
+    },
+    {
+      "query": "What should go into the final slide of a group talk?",
+      "source": "presentation.md",
+      "retrieved_sources": [
+        "presentation.md"
+      ],
+      "scores": [
+        0.6565
+      ],
+      "matched": true,
+      "reciprocal_rank": 1.0,
+      "latency_ms": 18.36
+    },
+    {
+      "query": "What is the capital of Mongolia?",
+      "source": null,
+      "retrieved_sources": [],
+      "scores": [],
+      "matched": true,
+      "reciprocal_rank": 0,
+      "latency_ms": 18.96
+    },
+    {
+      "query": "What dose of antibiotics treats an ear infection?",
+      "source": null,
+      "retrieved_sources": [],
+      "scores": [],
+      "matched": true,
+      "reciprocal_rank": 0,
+      "latency_ms": 20.17
+    }
+  ]
+}
